@@ -21,7 +21,7 @@ A plugin that makes an agent a careful 1C architect: it reads the configuration 
 In Claude Code:
 
 ```
-/plugin marketplace add whoamnesia/astudio-1c
+/plugin marketplace add whoamnesia/onec-agent
 /plugin install astudio-1c@astudio-1c
 ```
 

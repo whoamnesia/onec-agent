@@ -21,7 +21,7 @@
 В Claude Code:
 
 ```
-/plugin marketplace add whoamnesia/astudio-1c
+/plugin marketplace add whoamnesia/onec-agent
 /plugin install astudio-1c@astudio-1c
 ```
 
