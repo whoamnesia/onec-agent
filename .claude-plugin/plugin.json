@@ -1,0 +1,25 @@
+{
+  "name": "astudio-1c",
+  "version": "1.0.0",
+  "description": "astudio 1C:Enterprise 8.3 agent for Claude Code: understand a configuration from its XML dump, write correct and fast 1C queries and BSL code by the ITS standards, build external data processors and reports, use extensions instead of editing vendor objects, and explain to users what is happening in the database - read-only on live bases by default. English and Russian.",
+  "author": {
+    "name": "astudio.one",
+    "url": "https://astudio.one"
+  },
+  "keywords": [
+    "1c",
+    "1c-enterprise",
+    "bsl",
+    "1c-query",
+    "epf",
+    "erf",
+    "configuration",
+    "its-standards",
+    "bsl-language-server",
+    "erp"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/whoamnesia/astudio-1c",
+  "repository": "https://github.com/whoamnesia/astudio-1c",
+  "icon": "./.claude-plugin/icon.png"
+}

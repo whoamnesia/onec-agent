@@ -1,0 +1,24 @@
+{
+  "name": "astudio-1c",
+  "owner": {
+    "name": "astudio.one",
+    "url": "https://astudio.one"
+  },
+  "metadata": {
+    "description": "astudio-1c by astudio.one",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "astudio-1c",
+      "source": "./",
+      "description": "astudio 1C:Enterprise 8.3 agent for Claude Code: understand a configuration from its XML dump, write correct and fast 1C queries and BSL code by the ITS standards, build external data processors and reports, use extensions instead of editing vendor objects, and explain to users what is happening in the database - read-only on live bases by default. English and Russian.",
+      "version": "1.0.0",
+      "author": {
+        "name": "astudio.one",
+        "url": "https://astudio.one"
+      },
+      "homepage": "https://github.com/whoamnesia/astudio-1c"
+    }
+  ]
+}
